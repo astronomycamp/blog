@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "First Post"
-date: 2020-06-22 hh:mm:ss -0000
+date: 2020-06-22 00:00:00 
 categories: AstronomyCamp2020
 ---
