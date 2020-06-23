@@ -9,5 +9,5 @@ I am excited to be writing about how a planetarium works and by like reasons how
 
 ## What are we trying to describe?
 
-s### Daily motions of the stars and planets
+### Daily motions of the stars and planets
 
